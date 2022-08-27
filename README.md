@@ -1,1 +1,1 @@
-# Image to text convertor project (using Google colab and Python)
+# Image to text convertor project (using Jupyter Notebook and Python)
